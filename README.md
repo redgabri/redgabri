@@ -3,9 +3,9 @@
 
 
 ## How to contact me? 🍃 
-[![Static Badge](https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2F826198698786029598)](https://discord.com/826198698786029598)
+[![Static Badge](https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&link=https%3A%2F%2Fdiscord.com%2Fusers%2F826198698786029598)](https://discord.com/users/826198698786029598)
 [![Static Badge](https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram&link=t.me%2Frvady)](https://t.me/redgabri/)
-[![Static Badge](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fredgabri)](https:github.com/redgabri)
+[![Static Badge](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fredgabri)](https://github.com/redgabri)
 
 
 ## About me? 🎈
